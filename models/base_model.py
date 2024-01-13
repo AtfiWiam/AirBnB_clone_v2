@@ -1,4 +1,3 @@
-#!/usr/bin/python3
 """BaseModel class definition."""
 from sqlalchemy.ext.declarative import declarative_base
 import uuid
