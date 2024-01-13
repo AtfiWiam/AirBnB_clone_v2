@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 """place class definition"""
 from sqlalchemy.ext.declarative import declarative_base
 from models.base_model import BaseModel, Base
